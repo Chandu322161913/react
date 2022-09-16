@@ -1,0 +1,108 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "uname": "Chandu",
+      "mail": "chandu0435@gmail.com",
+      "phone": 7998991819
+    },
+    {
+      "id": 2,
+      "uname": "Anil",
+      "mail": "anilkumar0438@gmail.com",
+      "phone": 8985567170
+    },
+    {
+      "id": 3,
+      "uname": "Basha",
+      "mail": "shamsheer448@gmail.com",
+      "phone": 8179268660
+    },
+    {
+      "id": 4,
+      "uname": "Subbu",
+      "mail": "kurrasubbu0425@gmail.com",
+      "phone": 9876543210
+    },
+    {
+      "id": 5,
+      "uname": "Manohar",
+      "mail": "manupoli@7170@gmail.com",
+      "phone": 8885552856
+    },
+    {
+      "id": 6,
+      "uname": "Ramanji",
+      "mail": "ramjineyalu455@gmail.com",
+      "phone": 7744668814
+    },
+    {
+      "id": 7,
+      "uname": "Jittu",
+      "mail": "tammisettyjittu455@gmail.com",
+      "phone": 8457956244
+    },
+    {
+      "id": 8,
+      "uname": "Harsha",
+      "mail": "harshagoud412@gmail.com",
+      "phone": 7779994567
+    },
+    {
+      "uname": "chandrababu",
+      "mail": "naripeddic199189@gmail.com",
+      "phone": "6281488480",
+      "id": 9
+    },
+    {
+      "uname": "chandrababu",
+      "mail": "naripeddic199189@gmail.com",
+      "phone": "6281488480",
+      "id": 10
+    }
+  ],
+  "Bookingproduct": [
+    {
+      "sno": 1,
+      "bookdate": "30-08-2022",
+      "product": "selsun shampoo"
+    },
+    {
+      "sno": 2,
+      "bookdate": "28-08-2022",
+      "product": "Googlr pixel 6A"
+    },
+    {
+      "sno": 3,
+      "bookdate": "02-09-2022",
+      "product": "fogg spray"
+    },
+    {
+      "sno": 4,
+      "bookdate": "25-08-2022",
+      "product": "trimmer"
+    }
+  ],
+  "websites": [
+    {
+      "sno": 1,
+      "esite": "amazon",
+      "productid": 451254552542
+    },
+    {
+      "sno": 2,
+      "esite": "flipcart",
+      "productid": 985462765879
+    },
+    {
+      "sno": 3,
+      "esite": "snapdeal",
+      "productid": 545861328795
+    },
+    {
+      "sno": 4,
+      "esite": "myntra",
+      "productid": 447158296329
+    }
+  ]
+}
